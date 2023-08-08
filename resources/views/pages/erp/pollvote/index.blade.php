@@ -1,0 +1,1 @@
+<h1>Poll vote manage page</h1>

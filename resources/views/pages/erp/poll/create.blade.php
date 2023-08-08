@@ -1,0 +1,1 @@
+<h1>Poll  Create page</h1>
