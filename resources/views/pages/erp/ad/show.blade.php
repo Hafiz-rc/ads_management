@@ -1,7 +1,11 @@
 @extends('layout.erp.app')
 @section('title','Show User')
 @section('style')
-
+<style>
+    .card{
+        background-color:gray;
+    }
+</style>
 
 @endsection
 @section('page')
